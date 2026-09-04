@@ -11,6 +11,7 @@ A simple JavaScript playground project.
 ### Running
 
 Run the script with Node:
+Added a new line
 
 ```bash
 node test.js
